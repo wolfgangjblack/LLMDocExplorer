@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_store
 
 # C extensions
 *.so
@@ -81,6 +82,9 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+# api key
+src/api_key.txt
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
