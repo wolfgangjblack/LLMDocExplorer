@@ -1,0 +1,1 @@
+{"basedir": "../vectorstore/", "retrain_str": false, "datadir": "../../journals/", "persist_dir": "../vectorstore/chroma/"}
